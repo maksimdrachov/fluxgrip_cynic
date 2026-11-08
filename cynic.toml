@@ -1,0 +1,4 @@
+can = "slcan0"  # or SocketCAN iface name
+dsdl_root = ["~/fluxgrip_cynic/lib/zubax_dsdl/zubax"]
+"feedback" = "~/fluxgrip_cynic/lib/zubax_dsdl/zubax/fluxgrip/Feedback.1.1.dsdl"
+"com.zubax.fluxgrip/*/zubax.manage" = "~/fluxgrip_cynic/lib/zubax_dsdl/zubax/fluxgrip/Manage.0.1.dsdl"

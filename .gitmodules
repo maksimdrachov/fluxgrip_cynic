@@ -1,0 +1,6 @@
+[submodule "lib/public_regulated_data_types"]
+	path = lib/public_regulated_data_types
+	url = https://github.com/OpenCyphal/public_regulated_data_types.git
+[submodule "lib/zubax_dsdl"]
+	path = lib/zubax_dsdl
+	url = https://github.com/zubax/zubax_dsdl.git
